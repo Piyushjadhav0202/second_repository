@@ -1,0 +1,10 @@
+#!/bin/bash
+# hello_file.py
+
+# Step 1: Create and write to a file
+with open("hello.txt", "w") as file:
+    file.write("Hello, this is a simple Python script!\n")
+    file.write("You are learning Python.\n")
+
+# Step 2: Read and prin
+
